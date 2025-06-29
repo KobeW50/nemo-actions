@@ -1,0 +1,9 @@
+[Nemo Action]
+Name=Make Shortcuts
+Comment=Create a shortcut for each selected directory and a symbolic link for each selected file
+Exec=<make-shortcuts/make-shortcuts.sh %P %F>
+Selection=notnone
+Conditions=exec <make-shortcuts/examine-directory.sh "%P">;
+Extensions=any;
+Icon-Name=emblem-symbolic-link
+Dependencies=gio;awk;
