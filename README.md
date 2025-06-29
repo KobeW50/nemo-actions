@@ -51,6 +51,6 @@ This action is for users who hate that directory symbolic links (symlinks) in Ne
 Trigger warning: This action replaces hyphens (`-`) and underscores (`_`) in filenames with spaces. It does not affect folder names.
 
 
-### 3. Hyphenify (Coming soon)
+### 3. Hyphenify
 
-This action replaces spaces and underscores (`_`) in filenames with hyphens (`-`).
+This action replaces spaces and underscores (`_`) in filenames with hyphens (`-`). It does not affect folder names.

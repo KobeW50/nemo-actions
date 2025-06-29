@@ -1,0 +1,8 @@
+[Nemo Action]
+Name=Hyphenify
+Comment=Replace spaces and underscores in filenames with spaces
+Exec=<hyphenify/hyphenify.sh %P %F>
+Selection=notnone
+Conditions=exec <hyphenify/hyphenify-conditions.sh %P %F>;
+Extensions=any;
+Icon-Name=insert-horizontal-rule
