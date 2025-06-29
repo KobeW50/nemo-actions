@@ -46,9 +46,9 @@ This action is for users who hate that directory symbolic links (symlinks) in Ne
 - This action was only tested on Linux Mint 22 Cinnamon with Nemo 6.2.8.
 
 
-### 2. Spacify (Coming soon)
+### 2. Spacify
 
-Trigger warning: This action replaces hyphens (`-`) and underscores (`_`) in filenames with spaces.
+Trigger warning: This action replaces hyphens (`-`) and underscores (`_`) in filenames with spaces. It does not affect folder names.
 
 
 ### 3. Hyphenify (Coming soon)
