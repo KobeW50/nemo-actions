@@ -40,12 +40,13 @@ This action is for users who hate that directory symbolic links (symlinks) in Ne
 **Demo**
 <img src="/assets/make-shortcuts.gif" width="1200"/>
 
-
-**Limitations:**
-- You can't copy/move items into the shortcut.
-- Folder shortcuts will open in a new tab instead of the current tab.
-- Applications don't treat the shortcuts as symlinks. The shortcuts are just meant for navigation within Nemo.
-- This action was only tested on Linux Mint 22 Cinnamon with Nemo 6.2.8.
+> [!NOTE]
+>
+> **Limitations:**
+> - You can't copy/move items into the shortcut.
+> - Folder shortcuts will open in a new tab instead of the current tab.
+> - Applications don't treat the shortcuts as symlinks. The shortcuts are just meant for navigation within Nemo.
+> - This action was only tested on Linux Mint 22 Cinnamon with Nemo 6.2.8.
 
 
 ### 2. Spacify
