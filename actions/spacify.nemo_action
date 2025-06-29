@@ -1,0 +1,8 @@
+[Nemo Action]
+Name=Spacify
+Comment=Replace hyphens and underscores in filenames with spaces
+Exec=<spacify/spacify.sh %P %F>
+Selection=notnone
+Conditions=exec <spacify/spacify-conditions.sh %P %F>;
+Extensions=any;
+Icon-Name=spacer-symbolic
