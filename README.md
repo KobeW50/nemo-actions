@@ -14,9 +14,9 @@ To use the actions in the repository, follow these steps:
 ```
 # git needs to be installed in order to run this command
 git clone https://github.com/KobeW50/nemo-actions.git
-```
 
-(If you decide to instead download files individually, remember to make the scripts executable.)
+# If you decide to instead download files individually, remember to make the scripts executable.
+```
 
 2. Copy the `actions` directory to `~/.local/share/nemo/` (or `/usr/share/nemo/` if you want them to be system-wide):
 
