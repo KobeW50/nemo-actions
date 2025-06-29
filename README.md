@@ -1,6 +1,8 @@
 # Nemo Actions
 
-This repository contains custom actions that are added to the right-click context menu in Nemo. Also check out my [Linux Scripts repository](https://github.com/KobeW50/linux-scripts).
+This repository contains custom actions that are added to the right-click context menu in Nemo. Also check out my [Linux scripts repository](https://github.com/KobeW50/linux-scripts).
+
+Please open an issue if you found bugs, have questions, or want to contribute. Thanks :)
 ___
 
 # Setup
@@ -26,7 +28,7 @@ cp -r nemo-actions/actions ~/.local/share/nemo/
 sudo cp -r nemo-actions/actions ~/.local/share/nemo/
 ```
 
-3. Restart Nemo and ensure that the actions are enabled in the Nemo plugin preferences settings.
+3. Restart Nemo and ensure that the actions you want are enabled in the Nemo plugin preferences settings.
 ___
 
 # Actions
