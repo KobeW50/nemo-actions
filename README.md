@@ -31,7 +31,7 @@ ___
 
 # Actions
 
-### Make Shortcuts
+### 1. Make Shortcuts
 
 This action is for users who hate that directory symbolic links (symlinks) in Nemo don't "Follow link to original file". Rather, Nemo shows you a mirror of the linked directory, from which you can't navigate to the parent of the linked directory. When you use this action while folders are selected, a script will create an application shortcut (ie: a `.desktop` file) that opens the folder in Nemo when clicked. The application shortcut is created in the directory you are currently in. If the action is used on files (ie: not folders), normal symlinks will be created for them.
 
@@ -46,11 +46,11 @@ This action is for users who hate that directory symbolic links (symlinks) in Ne
 - This action was only tested on Linux Mint 22 Cinnamon with Nemo 6.2.8.
 
 
-### Spacify (Coming soon)
+### 2. Spacify (Coming soon)
 
 Trigger warning: This action replaces hyphens (`-`) and underscores (`_`) in filenames with spaces.
 
 
-### Hyphenify (Coming soon)
+### 3. Hyphenify (Coming soon)
 
 This action replaces spaces and underscores (`_`) in filenames with hyphens (`-`).
