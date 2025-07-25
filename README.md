@@ -11,7 +11,7 @@ To use the actions in the repository, follow these steps:
 
 1. Clone the repository:
 
-```
+``` shell
 # git needs to be installed in order to run this command
 git clone https://github.com/KobeW50/nemo-actions.git
 
@@ -20,7 +20,7 @@ git clone https://github.com/KobeW50/nemo-actions.git
 
 2. Copy the `actions` directory to `~/.local/share/nemo/` (or `/usr/share/nemo/` if you want them to be system-wide):
 
-```
+``` shell
 # If you only want the actions for the current user
 cp -r nemo-actions/actions ~/.local/share/nemo/
 
