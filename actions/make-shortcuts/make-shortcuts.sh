@@ -28,7 +28,7 @@ make_fake_symlink() {
 
     obtain_icon "$item"
 
-    echo -e "[Desktop Entry]\nName="$symlink_name"\nComment=\nExec=nemo --existing-window '${item}'\nType=Application\nIcon=$icon" > "${parent_directory}/${symlink_name}.desktop"
+    echo -e "[Desktop Entry]\nName="$symlink_name"\nComment=\nExec=nemo --existing-window \"${item}\"\nType=Application\nIcon=$icon" > "${parent_directory}/${symlink_name}.desktop"
     add_emblem
     make_executable
 }
