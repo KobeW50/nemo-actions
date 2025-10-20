@@ -25,7 +25,7 @@ git clone https://github.com/KobeW50/nemo-actions.git
 cp -r nemo-actions/actions ~/.local/share/nemo/
 
 # If you want the actions for all users
-sudo cp -r nemo-actions/actions ~/.local/share/nemo/
+sudo cp -r nemo-actions/actions /usr/share/nemo/
 ```
 
 3. Restart Nemo and ensure that the actions you want are enabled in the Nemo plugin preferences settings.
