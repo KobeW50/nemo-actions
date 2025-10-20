@@ -57,3 +57,8 @@ Trigger warning: This action replaces hyphens (`-`) and underscores (`_`) in fil
 ### 3. Hyphenify
 
 This action replaces spaces and underscores (`_`) in filenames with hyphens (`-`). It does not affect folder names.
+
+
+### 4. Titlecase
+
+ Coming soon™
